@@ -2,6 +2,8 @@
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=42&pause=650&color=D9B66F&center=true&vCenter=true&width=1100&height=130&lines=DEADLOCK+HACK+2026;AIMBOT+%7C+ESP+%7C+WALLHACK;RULE+THE+CURSED+CITY" alt="Deadlock Hack 2026" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d3e1f974-fb6c-49fd-8937-5164d3ff1b0b" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0ed77829-df73-4635-84f6-2ba63bf3b48b" />
 
 <br/>
 
